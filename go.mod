@@ -23,6 +23,7 @@ require (
 	github.com/open-telemetry/opamp-go v0.5.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awss3exporter v0.88.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/carbonexporter v0.88.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/clickhouseexporter v0.88.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/fileexporter v0.88.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/jaegerexporter v0.85.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/jaegerthrifthttpexporter v0.85.0

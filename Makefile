@@ -1,5 +1,5 @@
 COMMIT_SHA ?= $(shell git rev-parse HEAD)
-REPONAME ?= signoz
+REPONAME ?= sovarto
 IMAGE_NAME ?= signoz-otel-collector
 MIGRATOR_IMAGE_NAME ?= signoz-schema-migrator
 CONFIG_FILE ?= ./config/default-config.yaml
